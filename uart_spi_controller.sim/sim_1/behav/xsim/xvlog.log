@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/param/.Xilinx/uart_spi_controller/uart_spi_controller.srcs/sources_1/new/spi_master1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module spi_master
+ERROR: [VRFC 10-3236] concurrent assignment to a non-net 'sclk' is not permitted [C:/Users/param/.Xilinx/uart_spi_controller/uart_spi_controller.srcs/sources_1/new/spi_master1.v:74]
+ERROR: [VRFC 10-8530] module 'spi_master' is ignored due to previous errors [C:/Users/param/.Xilinx/uart_spi_controller/uart_spi_controller.srcs/sources_1/new/spi_master1.v:7]
